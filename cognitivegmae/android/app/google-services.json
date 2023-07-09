@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "859657594757",
+    "firebase_url": "https://fir-flutterapp-87fcd-default-rtdb.firebaseio.com",
+    "project_id": "fir-flutterapp-87fcd",
+    "storage_bucket": "fir-flutterapp-87fcd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859657594757:android:204df2bbe1b364ecc686ec",
+        "android_client_info": {
+          "package_name": "com.example.cognitivegmae"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "859657594757-khtfvndmbsi5eef7bb5incvvo2qlakil.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFfWftwavDlX2sIIsetL3IJ75mx-xBJO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "859657594757-khtfvndmbsi5eef7bb5incvvo2qlakil.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "859657594757-460lafeud9f37fltpmghudm5rropf44l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cognitiveGmae"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
